@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujbabu&label=Profile%20views&color=0e75b6&style=flat" alt="anujbabu" /> </p>
 
-- 🌱 I’m currently learning **react native,.net**
+- 🌱 I’m currently learning **Angular,Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnujBabu](https://github.com/AnujBabu)
 
